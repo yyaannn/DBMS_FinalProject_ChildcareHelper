@@ -16,7 +16,7 @@
 ## 如何使用托嬰小幫手
 1. 每次使用前都要開啟 xampp，啟動 apache 和 MySQL
 2. 打開瀏覽器輸入localhost/DBMS_FinalProject_ChildcareHelper/index.php，進入登入頁面，註冊帳號後登入即可使用托嬰小幫手
-更詳細的解說可參考 demo 影片: https://drive.google.com/file/d/1GNvwJd-CzjReUIeKqU0iN0nyAL9GWpcx/view?usp=sharing
+3. 更詳細的解說可參考 demo 影片: https://drive.google.com/file/d/1GNvwJd-CzjReUIeKqU0iN0nyAL9GWpcx/view?usp=sharing
 
 ## 托嬰小幫手功能
 1. 生育率小補帖：視覺化的圖表以及分析生育率高低的原因
