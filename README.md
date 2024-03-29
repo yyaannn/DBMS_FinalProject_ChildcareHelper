@@ -1,9 +1,8 @@
 # DBMS Final Project - 托嬰小幫手
 ## 簡述
 - 網頁架構使用 HTML、CSS、JavaScript 撰寫
-- CRUD 功能使用 PHP (內含SQL) 撰寫
-- 使用 xampp 連結資料庫和網頁
-- 資料庫使用 MariaDB
+- CRUD 功能使用 PHP、SQL 撰寫
+- 使用 xampp 連結資料庫 (MariaDB) 和網頁
 - 托嬰小幫手理念: 於網站中整理托嬰機構以及生育補助的資訊，讓使用者可以查詢以及收藏，也可以在評論區寫下對托嬰中心的評價，讓其他使用者可以參考，並將生育資料視覺化、展示一些對於生育率的分析，更有與生育相關的問答小遊戲增加趣味性。
 
 ## 如何安裝托嬰小幫手
@@ -11,7 +10,7 @@
 2. clone repository
 3. 將 clone 下來的檔案放入電腦中 xampp/hotdocs/ 資料夾下 
 4. 開啟 xampp，啟動 apache 和 MySQL
-5. 打開 phpMyAdmin，將下載的檔案中的 "new_insertion.sql" import 到資料庫裡
+5. 打開 phpMyAdmin，import 下載下來的 "new_insertion.sql" 到資料庫裡
 
 ## 如何使用托嬰小幫手
 1. 每次使用前都要開啟 xampp，啟動 apache 和 MySQL
